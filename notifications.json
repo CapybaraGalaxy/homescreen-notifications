@@ -134,6 +134,23 @@
         "type": "external",
         "url": "https://github.com/CapybaraGalaxy/HOMESCREEN"
       }
+    },
+    {
+      "id": "2026-11-test-001",
+      "type": "announcement",
+      "title": "Test de notificación",
+      "message": "Esta es una notificación de prueba para verificar el funcionamiento del sistema.",
+      "date": "2026-11-06T14:00:00Z",
+      "expiresAt": null,
+      "icon": "layers",
+      "important": true,
+      "imageUrl": "https://www.webitrs5.net/images/comingsoon-square.png",
+      "imagePosition": "top",
+      "imageAlt": "",
+      "action": {
+        "type": "external",
+        "url": "https://github.com/CapybaraGalaxy/HOMESCREEN"
+      }
     }
   ]
 }
