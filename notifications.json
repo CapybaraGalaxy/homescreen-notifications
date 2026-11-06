@@ -4,7 +4,7 @@
   "updatedAt": "2026-11-06T18:00:00Z",
   "notifications": [
     {
-      "id": "2026-11-welcome-001",
+      "id": "2026-11-welcome-002",
       "type": "announcement",
       "title": "¡Bienvenido a Homescreen NEO!",
       "message": "Gracias por utilizar Homescreen. Seguiremos trabajando para ofrecerte una experiencia más completa, rápida y personalizable.",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "2026-11-update-001",
+      "id": "2026-11-update-002",
       "type": "update",
       "title": "Nueva actualización disponible",
       "message": "Homescreen NEO ha recibido mejoras de rendimiento, correcciones y pequeños ajustes en su interfaz.",
@@ -37,7 +37,7 @@
       }
     },
     {
-      "id": "2026-11-feature-001",
+      "id": "2026-11-feature-002",
       "type": "feature",
       "title": "Personaliza tu experiencia",
       "message": "Recuerda que puedes adaptar la apariencia de Homescreen desde los ajustes, cambiar la distribución y configurar diferentes opciones visuales.",
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "2026-11-app-001",
+      "id": "2026-11-app-002",
       "type": "announcement",
       "title": "Nuevas aplicaciones",
       "message": "Hemos incorporado nuevas herramientas a la biblioteca de aplicaciones. ¡Échales un vistazo!",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": "2026-11-event-001",
+      "id": "2026-11-event-002",
       "type": "event",
       "title": "¡Gracias por acompañarnos!",
       "message": "Homescreen sigue creciendo gracias a su comunidad. Tenemos muchas novedades preparadas.",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "id": "2026-11-maintenance-001",
+      "id": "2026-11-maintenance-002",
       "type": "maintenance",
       "title": "Mantenimiento programado",
       "message": "Algunos servicios externos podrían experimentar interrupciones temporales. Homescreen seguirá funcionando con normalidad en sus funciones locales.",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id": "2026-11-warning-001",
+      "id": "2026-11-warning-002",
       "type": "warning",
       "title": "Aviso importante",
       "message": "Comprueba que tienes una copia de seguridad reciente de tu configuración para evitar perder tus datos.",
@@ -119,7 +119,7 @@
       }
     },
     {
-      "id": "2026-11-community-001",
+      "id": "2026-11-community-002",
       "type": "announcement",
       "title": "Visita nuestro repositorio",
       "message": "Consulta el desarrollo, el código y las novedades de Homescreen NEO en GitHub.",
