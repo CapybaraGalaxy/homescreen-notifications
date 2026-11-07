@@ -6,13 +6,13 @@
     {
       "id": "2026-11-welcome-003",
       "type": "announcement",
-      "title": "OK¡Bienvenido a Homescreen NEO!",
+      "title": "TEST¡Bienvenido a Homescreen NEO!",
       "message": "Gracias por utilizar Homescreen. Seguiremos trabajando para ofrecerte una experiencia más completa, rápida y personalizable.",
       "date": "2026-11-06T10:00:00Z",
       "expiresAt": null,
       "icon": "house",
       "important": false,
-      "imageUrl": "null",
+      "imageUrl": null,
       "imagePosition": "top",
       "imageAlt": "Abstract design representing welcome and creativity",
       "action": {
@@ -33,7 +33,7 @@
       "imageAlt": "",
       "action": {
         "type": "changelog",
-        "version": "1.8.0"
+        "version": "1.8.0 - NEO Drop 2"
       }
     },
     {
@@ -134,6 +134,22 @@
         "type": "external",
         "url": "https://github.com/CapybaraGalaxy/HOMESCREEN"
       }
-    }
+    },
+    {
+  "id": "2026-11-banner-actualizacion",
+  "type": "update",
+  "title": "Nuevo diseño de interfaz",
+  "message": "Hemos renovado por completo la experiencia visual.",
+  "date": "2026-11-06T12:00:00Z",
+  "expiresAt": null,
+  "icon": "image",
+  "important": false,
+  "imageUrl": "https://plsn.com/site/wp-content/uploads/fig-2.-1920px-SMPTE_Color_Bars_16x9.png",
+  "imagePosition": "top",
+  "imageAlt": "Captura de pantalla del nuevo diseño de interfaz",
+  "action": {
+    "type": "none"
+  }
+}
   ]
 }
