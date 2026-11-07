@@ -1,66 +1,33 @@
 {
   "schemaVersion": 1,
   "project": "Homescreen NEO",
-  "updatedAt": "2026-11-06T18:00:00Z",
+  "updatedAt": "2026-11-07T14:00:00Z",
   "notifications": [
     {
-      "id": "2026-11-welcome-005",
-      "type": "announcement",
-      "title": "¡Bienvenido a Homescreen NEO!",
-      "message": "Gracias por utilizar Homescreen. Seguiremos trabajando para ofrecerte una experiencia más completa, rápida y personalizable.",
-      "date": "2026-11-06T10:00:00Z",
+      "id": "2026-11-update-006",
+      "type": "update",
+      "title": "Modo Oscuro Avanzado disponible",
+      "message": "Hemos optimizado el contraste y la paleta de colores para mejorar el uso nocturno y ahorrar batería.",
+      "date": "2026-11-07T13:30:00Z",
       "expiresAt": null,
-      "icon": "house",
+      "icon": "moon",
       "important": false,
       "imageUrl": null,
       "imagePosition": "top",
-      "imageAlt": "Abstract design representing welcome and creativity",
+      "imageAlt": "",
       "action": {
-        "type": "none"
+        "type": "internal",
+        "url": "settings.html"
       }
     },
     {
-      "id": "2026-11-feature-005",
+      "id": "2026-11-feature-006",
       "type": "feature",
-      "title": "Personaliza tu experiencia",
-      "message": "Recuerda que puedes adaptar la apariencia de Homescreen desde los ajustes, cambiar la distribución y configurar diferentes opciones visuales.",
-      "date": "2026-11-05T15:30:00Z",
+      "title": "Organización por widgets",
+      "message": "Ahora puedes anclar tus accesos rápidos y herramientas favoritas directamente en el panel principal.",
+      "date": "2026-11-07T11:00:00Z",
       "expiresAt": null,
-      "icon": "palette",
-      "important": false,
-      "imageUrl": null,
-      "imagePosition": "top",
-      "imageAlt": "",
-      "action": {
-        "type": "internal",
-        "url": "index.html"
-      }
-    },
-    {
-      "id": "2026-11-app-005",
-      "type": "announcement",
-      "title": "Nuevas aplicaciones",
-      "message": "Hemos incorporado nuevas herramientas a la biblioteca de aplicaciones. ¡Échales un vistazo!",
-      "date": "2026-11-04T17:00:00Z",
-      "expiresAt": null,
-      "icon": "grid-2x2",
-      "important": false,
-      "imageUrl": null,
-      "imagePosition": "top",
-      "imageAlt": "",
-      "action": {
-        "type": "internal",
-        "url": "Apps/"
-      }
-    },
-    {
-      "id": "2026-11-event-005",
-      "type": "event",
-      "title": "¡Gracias por acompañarnos!",
-      "message": "Homescreen sigue creciendo gracias a su comunidad. Tenemos muchas novedades preparadas.",
-      "date": "2026-11-03T12:00:00Z",
-      "expiresAt": null,
-      "icon": "heart",
+      "icon": "layout-grid",
       "important": false,
       "imageUrl": null,
       "imagePosition": "top",
@@ -70,30 +37,31 @@
       }
     },
     {
-      "id": "2026-11-maintenance-005",
-      "type": "maintenance",
-      "title": "Mantenimiento programado",
-      "message": "Algunos servicios externos podrían experimentar interrupciones temporales. Homescreen seguirá funcionando con normalidad en sus funciones locales.",
-      "date": "2026-11-02T09:00:00Z",
-      "expiresAt": "2026-11-03T09:00:00Z",
-      "icon": "wrench",
-      "important": true,
-      "imageUrl": null,
-      "imagePosition": "top",
-      "imageAlt": "",
-      "action": {
-        "type": "none"
-      }
-    },
-    {
-      "id": "2026-11-warning-005",
+      "id": "2026-11-security-006",
       "type": "warning",
-      "title": "Aviso importante",
-      "message": "Comprueba que tienes una copia de seguridad reciente de tu configuración para evitar perder tus datos.",
-      "date": "2026-11-01T10:00:00Z",
+      "title": "Verificación de privacidad",
+      "message": "Revisa los permisos de las extensiones conectadas para asegurarte de que tus datos permanecen seguros.",
+      "date": "2026-11-06T16:45:00Z",
       "expiresAt": null,
-      "icon": "alert-triangle",
+      "icon": "shield-check",
       "important": true,
+      "imageUrl": null,
+      "imagePosition": "top",
+      "imageAlt": "",
+      "action": {
+        "type": "internal",
+        "url": "privacy.html"
+      }
+    },
+    {
+      "id": "2026-11-performance-006",
+      "type": "announcement",
+      "title": "Mejora del rendimiento",
+      "message": "Remplazamos el motor de renderizado interno para lograr tiempos de carga un 40% más rápidos.",
+      "date": "2026-11-06T09:15:00Z",
+      "expiresAt": null,
+      "icon": "gauge",
+      "important": false,
       "imageUrl": null,
       "imagePosition": "top",
       "imageAlt": "",
@@ -102,52 +70,86 @@
       }
     },
     {
-      "id": "2026-11-community-005",
-      "type": "announcement",
-      "title": "Visita nuestro repositorio",
-      "message": "Consulta el desarrollo, el código y las novedades de Homescreen NEO en GitHub.",
-      "date": "2026-11-06T14:00:00Z",
-      "expiresAt": null,
-      "icon": "github",
+      "id": "2026-11-survey-006",
+      "type": "event",
+      "title": "Queremos escuchar tu opinión",
+      "message": "Participa en nuestra encuesta de satisfacción anual y ayúdanos a definir el mapa de ruta para 2027.",
+      "date": "2026-11-05T18:00:00Z",
+      "expiresAt": "2026-11-20T23:59:59Z",
+      "icon": "message-square",
       "important": false,
       "imageUrl": null,
       "imagePosition": "top",
       "imageAlt": "",
       "action": {
         "type": "external",
-        "url": "https://github.com/CapybaraGalaxy/HOMESCREEN"
+        "url": "https://github.com/CapybaraGalaxy/HOMESCREEN/discussions"
       }
     },
     {
-      "id": "2026-11-banner-actualizacion2",
-      "type": "update",
-      "title": "Nuevo diseño de interfaz",
-      "message": "Hemos renovado por completo la experiencia visual.",
-      "date": "2026-11-06T12:00:00Z",
+      "id": "2026-11-cloud-006",
+      "type": "announcement",
+      "title": "Sincronización en la nube",
+      "message": "Guarda y restaura tu perfil y configuraciones personalizadas desde cualquier dispositivo de forma fluida.",
+      "date": "2026-11-04T14:20:00Z",
       "expiresAt": null,
-      "icon": "image",
+      "icon": "cloud",
       "important": false,
-      "imageUrl": "https://plsn.com/site/wp-content/uploads/fig-2.-1920px-SMPTE_Color_Bars_16x9.png",
+      "imageUrl": null,
       "imagePosition": "top",
-      "imageAlt": "Captura de pantalla del nuevo diseño de interfaz",
+      "imageAlt": "",
       "action": {
-        "type": "none"
+        "type": "internal",
+        "url": "sync.html"
       }
     },
     {
-      "id": "2026-11-tips-005",
-      "type": "feature",
-      "title": "Consejos y trucos ocultos",
-      "message": "Descubre atajos de teclado y gestos rápidos para moverte con soltura por toda la interfaz.",
-      "date": "2026-11-07T08:00:00Z",
-      "expiresAt": null,
-      "icon": "zap",
+      "id": "2026-11-maintenance-006",
+      "type": "maintenance",
+      "title": "Optimización del servidor",
+      "message": "Realizaremos tareas de mantenimiento en la base de datos de complementos el próximo lunes.",
+      "date": "2026-11-03T10:00:00Z",
+      "expiresAt": "2026-11-09T04:00:00Z",
+      "icon": "database",
       "important": false,
       "imageUrl": null,
       "imagePosition": "top",
       "imageAlt": "",
       "action": {
         "type": "none"
+      }
+    },
+    {
+      "id": "2026-11-banner-shortcuts",
+      "type": "feature",
+      "title": "Nuevos atajos gestuales",
+      "message": "Navega con mayor agilidad utilizando los nuevos gestos táctiles y combinaciones de teclado personalizadas.",
+      "date": "2026-11-02T12:00:00Z",
+      "expiresAt": null,
+      "icon": "command",
+      "important": false,
+      "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "imagePosition": "top",
+      "imageAlt": "Persona trabajando con atajos de teclado en una laptop",
+      "action": {
+        "type": "none"
+      }
+    },
+    {
+      "id": "2026-11-community-006",
+      "type": "announcement",
+      "title": "Guía para desarrolladores",
+      "message": "Publicamos la documentación oficial de la API para quienes deseen crear sus propios módulos e integraciones.",
+      "date": "2026-11-01T15:00:00Z",
+      "expiresAt": null,
+      "icon": "code",
+      "important": false,
+      "imageUrl": null,
+      "imagePosition": "top",
+      "imageAlt": "",
+      "action": {
+        "type": "external",
+        "url": "https://github.com/CapybaraGalaxy/HOMESCREEN/wiki"
       }
     }
   ]
