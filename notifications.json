@@ -4,9 +4,9 @@
   "updatedAt": "2026-11-06T18:00:00Z",
   "notifications": [
     {
-      "id": "2026-11-welcome-003",
+      "id": "2026-11-welcome-005",
       "type": "announcement",
-      "title": "TEST¡Bienvenido a Homescreen NEO!",
+      "title": "¡Bienvenido a Homescreen NEO!",
       "message": "Gracias por utilizar Homescreen. Seguiremos trabajando para ofrecerte una experiencia más completa, rápida y personalizable.",
       "date": "2026-11-06T10:00:00Z",
       "expiresAt": null,
@@ -20,24 +20,7 @@
       }
     },
     {
-      "id": "2026-11-update-002",
-      "type": "update",
-      "title": "Nueva actualización disponible",
-      "message": "Homescreen NEO ha recibido mejoras de rendimiento, correcciones y pequeños ajustes en su interfaz.",
-      "date": "2026-11-06T12:00:00Z",
-      "expiresAt": null,
-      "icon": "download",
-      "important": true,
-      "imageUrl": null,
-      "imagePosition": "top",
-      "imageAlt": "",
-      "action": {
-        "type": "changelog",
-        "version": "1.8.0 - NEO Drop 2"
-      }
-    },
-    {
-      "id": "2026-11-feature-002",
+      "id": "2026-11-feature-005",
       "type": "feature",
       "title": "Personaliza tu experiencia",
       "message": "Recuerda que puedes adaptar la apariencia de Homescreen desde los ajustes, cambiar la distribución y configurar diferentes opciones visuales.",
@@ -54,7 +37,7 @@
       }
     },
     {
-      "id": "2026-11-app-002",
+      "id": "2026-11-app-005",
       "type": "announcement",
       "title": "Nuevas aplicaciones",
       "message": "Hemos incorporado nuevas herramientas a la biblioteca de aplicaciones. ¡Échales un vistazo!",
@@ -71,7 +54,7 @@
       }
     },
     {
-      "id": "2026-11-event-002",
+      "id": "2026-11-event-005",
       "type": "event",
       "title": "¡Gracias por acompañarnos!",
       "message": "Homescreen sigue creciendo gracias a su comunidad. Tenemos muchas novedades preparadas.",
@@ -87,7 +70,7 @@
       }
     },
     {
-      "id": "2026-11-maintenance-002",
+      "id": "2026-11-maintenance-005",
       "type": "maintenance",
       "title": "Mantenimiento programado",
       "message": "Algunos servicios externos podrían experimentar interrupciones temporales. Homescreen seguirá funcionando con normalidad en sus funciones locales.",
@@ -103,7 +86,7 @@
       }
     },
     {
-      "id": "2026-11-warning-002",
+      "id": "2026-11-warning-005",
       "type": "warning",
       "title": "Aviso importante",
       "message": "Comprueba que tienes una copia de seguridad reciente de tu configuración para evitar perder tus datos.",
@@ -119,7 +102,7 @@
       }
     },
     {
-      "id": "2026-11-community-002",
+      "id": "2026-11-community-005",
       "type": "announcement",
       "title": "Visita nuestro repositorio",
       "message": "Consulta el desarrollo, el código y las novedades de Homescreen NEO en GitHub.",
@@ -136,20 +119,36 @@
       }
     },
     {
-  "id": "2026-11-banner-actualizacion",
-  "type": "update",
-  "title": "Nuevo diseño de interfaz",
-  "message": "Hemos renovado por completo la experiencia visual.",
-  "date": "2026-11-06T12:00:00Z",
-  "expiresAt": null,
-  "icon": "image",
-  "important": false,
-  "imageUrl": "https://plsn.com/site/wp-content/uploads/fig-2.-1920px-SMPTE_Color_Bars_16x9.png",
-  "imagePosition": "top",
-  "imageAlt": "Captura de pantalla del nuevo diseño de interfaz",
-  "action": {
-    "type": "none"
-  }
-}
+      "id": "2026-11-banner-actualizacion2",
+      "type": "update",
+      "title": "Nuevo diseño de interfaz",
+      "message": "Hemos renovado por completo la experiencia visual.",
+      "date": "2026-11-06T12:00:00Z",
+      "expiresAt": null,
+      "icon": "image",
+      "important": false,
+      "imageUrl": "https://plsn.com/site/wp-content/uploads/fig-2.-1920px-SMPTE_Color_Bars_16x9.png",
+      "imagePosition": "top",
+      "imageAlt": "Captura de pantalla del nuevo diseño de interfaz",
+      "action": {
+        "type": "none"
+      }
+    },
+    {
+      "id": "2026-11-tips-005",
+      "type": "feature",
+      "title": "Consejos y trucos ocultos",
+      "message": "Descubre atajos de teclado y gestos rápidos para moverte con soltura por toda la interfaz.",
+      "date": "2026-11-07T08:00:00Z",
+      "expiresAt": null,
+      "icon": "zap",
+      "important": false,
+      "imageUrl": null,
+      "imagePosition": "top",
+      "imageAlt": "",
+      "action": {
+        "type": "none"
+      }
+    }
   ]
 }
