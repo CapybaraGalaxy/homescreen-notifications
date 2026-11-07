@@ -20,6 +20,23 @@
         "url": "settings.html"
       }
     },
+        {
+      "id": "2026-11-update-006",
+      "type": "announcement",
+      "title": "Estamos probando las notificaciones en Homescreen",
+      "message": "Estamos probando este nuevo sistema de notificaciones, es posible que recibas mensajes de prueba o de información general. ¡Gracias por tu comprensión!",
+      "date": "2026-11-07T13:30:00Z",
+      "expiresAt": null,
+      "icon": "bell",
+      "important": true,
+      "imageUrl": "https://media.istockphoto.com/id/2151656410/vector/phone-notifications-icon-in-flat-style-smartphone-with-new-notice-vector-illustration-on.jpg?s=612x612&w=0&k=20&c=mre_8Bxmdfzly0QZc06NStSXyRo8VNvUMO1n35ev8Zs=",
+      "imagePosition": "top",
+      "imageAlt": "test",
+      "action": {
+        "type": "internal",
+        "url": "settings.html"
+      }
+    },
     {
       "id": "2026-11-feature-006",
       "type": "feature",
