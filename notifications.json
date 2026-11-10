@@ -4,6 +4,22 @@
   "updatedAt": "2026-11-07T14:00:00Z",
   "notifications": [
     {
+      "id": "2026-11-update-007",
+      "type": "announcement",
+      "title": "Countdown se ha actualizado",
+      "message": "Hemos actualizado la aplicación con soporte para rachas acumulativas, colores personalizados por tarjeta, avisos de audio y mucho más.",
+      "date": "2026-11-10T14:00:00Z",
+      "expiresAt": null,
+      "icon": "clock-4",
+      "important": true,
+      "imageUrl": null,
+      "imagePosition": "top",
+      "imageAlt": "",
+      "action": {
+        "type": "none"
+      }
+    },
+    {
       "id": "2026-11-update-006",
       "type": "update",
       "title": "Modo Oscuro Avanzado disponible",
